@@ -429,6 +429,8 @@ margin: 55px;
     #gallery .img{
         width: 50%;
     }
+      footer .ftr_abt img {
+    height: 75px;
   }
   @media (max-width: 580px){
     #gallery .img{
@@ -438,7 +440,16 @@ margin: 55px;
 @media(max-width:768px){
     footer .ftr_abt img        {
         width:216px;
+        height:110px;
     }
     .abt4_2_1 {
     margin: 20px 0 55px 55px;
+}
+    #carouselExampleIndicators img {
+    height: 50vh;
+}
+    footer .ftr_content ul li {
+    
+     margin: 0 ;
+}
 }
